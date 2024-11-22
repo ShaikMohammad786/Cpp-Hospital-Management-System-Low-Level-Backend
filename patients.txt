@@ -1,0 +1,10 @@
+Aarav Sharma,30, 123 Green Park, New Delhi, +91 98765 43210, A+, No significant history
+Diya Patel,28, 456 Ocean View, Mumbai, +91 98765 54321, O-, Allergies to dust
+Kabir Khan,45, 789 River Side, Bengaluru, +91 98765 65432, B+, Hypertension
+Maya Verma,35, 321 Lotus Lane, Pune, +91 98765 76543, AB-, Asthma
+Rajesh Singh,50, 654 Hilltop, Hyderabad, +91 98765 87654, A-, Diabetes
+Ananya Gupta,27, 159 Sunset Blvd, Chennai, +91 98765 98765, O+, No known allergies
+Vikrant Joshi,40, 753 Palm Tree Rd, Kolkata, +91 98765 19876, B-, Heart disease
+Priya Nair,29, 951 Ocean Drive, Ahmedabad, +91 98765 29876, AB+, Frequent migraines
+Arjun Reddy,38, 147 Mango Lane, Jaipur, +91 98765 39876, O-, Previous surgery for appendicitis
+Tara Iyer,33, 258 Cherry Blossom, Surat, +91 98765 49876, A+, No significant history

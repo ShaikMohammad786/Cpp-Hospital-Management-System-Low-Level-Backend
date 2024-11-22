@@ -1,0 +1,10 @@
+Dr. Aditi Sharma,General Physician,Mon-Sat
+Dr. Rahul Verma,Cardiology,Mon-Wed
+Dr. Neha Gupta,Dermatology,Tue-Thu
+Dr. Vikram Rao,Pediatrics,Mon-Fri
+Dr. Sneha Reddy,Orthopedics,Mon
+Dr. Arjun Patil,Neurology,Tue-Thu
+Dr. Kavita Nair,Gynecology,Mon
+Dr. Sameer Joshi,General Surgery,Tue
+Dr. Priya Iyer,Internal Medicine,Mon-Fri
+Dr. Ankit Mehta,Psychiatry,Wed-Fri
